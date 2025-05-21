@@ -117,14 +117,3 @@ print(f"Validation RMSE: {val_rmse:.2f}")
 
  **Answer: 7.81**
 
----
-
-###  Final Answers Summary:
-
-1. **Q1**: 19
-2. **Q2**: 52.59
-3. **Q3**: 95%
-4. **Q4**: 515
-5. **Q5**: 7.64
-6. **Q6**: 7.81
-
